@@ -1,0 +1,12 @@
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\obj\Debug\net6.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\obj\Debug\net6.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\obj\Debug\net6.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\obj\Debug\net6.0\Authorization.AssemblyInfo.cs
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\obj\Debug\net6.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\bin\Debug\net6.0\Authorization.deps.json
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\bin\Debug\net6.0\Authorization.dll
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\bin\Debug\net6.0\ref\Authorization.dll
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\bin\Debug\net6.0\Authorization.pdb
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\obj\Debug\net6.0\Authorization.dll
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\obj\Debug\net6.0\ref\Authorization.dll
+C:\Users\Eselkopf\source\repos\NPTest\Authorization\obj\Debug\net6.0\Authorization.pdb
